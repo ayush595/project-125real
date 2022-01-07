@@ -1,0 +1,18 @@
+body
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 5px;
+    background-image: url("https://img.freepik.com/free-vector/set-different-doodle-hearts-sketch-design_1035-20325.jpg?size=626&ext=jpg");
+    background-size: cover;
+}
+#note
+{
+    background-color: #000000;
+    color: white;
+    font-weight: 900;
+}
+#footerofpage
+{
+    position: fixed;
+    bottom: 0;
+}
